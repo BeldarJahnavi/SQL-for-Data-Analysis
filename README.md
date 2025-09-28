@@ -1,4 +1,4 @@
-QL Data Analysis – ShopAnalyticsDB
+SQL Data Analysis – ShopAnalyticsDB
 
 This repository contains my SQL task for the Data Analyst Internship.
 The project demonstrates how to create and manage an e-commerce style database and run analytical SQL queries in MySQL Workbench.
